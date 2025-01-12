@@ -37,3 +37,14 @@ main{
     width: 267px;
     height: 473px;
 }
+/* por favor se alguém quiser contribuir melhore mas só se saber oque está fazendo ao contrario finja que essa parte do codigo não existe, pois eu demorei dias pra arrumar */
+#socialmedia {
+    width: 100vw;
+    text-align: right;
+}
+#socialmedia img{
+    border-radius:50%;
+    width: 50px;
+    margin: 10px;
+     box-shadow: 3px 3px 3px #00000087;
+}
